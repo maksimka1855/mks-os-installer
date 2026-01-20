@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MKS OS INSTALLER/1.0.0": {
+        "runtime": {
+          "MKS OS INSTALLER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MKS OS INSTALLER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
